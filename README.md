@@ -1,4 +1,6 @@
 # EX14 - Implement-Hash-Function
+### Developed by: Nandyala Malyadri Reddy
+### Reg: 212223100037
 ## AIM :
 To generate a simple hash of a given message using a custom hash function.
 
